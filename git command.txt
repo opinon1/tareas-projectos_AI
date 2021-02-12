@@ -1,0 +1,15 @@
+para descargar:
+
+git clone (link de repositorio)
+
+para actualizar:
+
+
+git pull
+
+
+para subir cambios:
+
+git add *
+git commit -m
+git pull 
